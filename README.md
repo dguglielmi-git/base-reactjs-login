@@ -1,70 +1,56 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# base-reactjs-login
 
-## Available Scripts
+Base project template to start a project with basic login screen
 
-In the project directory, you can run:
+## Getting Started 🚀
 
-### `yarn start`
+Clone this repository and following the steps on How to Install to start using this project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### How to Install 🔧
 
-### `yarn test`
+Run the following commandas once the repo has been cloned:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+# npm install
+# npm start
+```
 
-### `yarn build`
+## Deploy 📦
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It is just a template project, it needs to be modified and adapted for further usage.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Built with 🛠️
 
-### `yarn eject`
+* [PrimeReact - PrimeFaces](https://www.primefaces.org/primereact/) - The ultimate collection of design-agnostic, flexible and accessible React UI Components.
+* [SemanticUI](https://semantic-ui.com/) - Development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+* [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
+* [Yup](https://yarnpkg.com/package/yup) - Dead simple Object schema validation.
+* [Internationalization i18n](https://react.i18next.com/) - react-i18next is a powerful internationalization framework for React / React Native which is based on i18next.
+* [lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras.
+* [SaSS](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Version 📌
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Unique version.
 
-## Learn More
+## Author ✒️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **Daniel Guglielmi** - Software Developer - [dguglielmi-git](https://github.com/dguglielmi-git)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## License 📄
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+There is not license available.
 
-### Analyzing the Bundle Size
+## Thanks 🎁
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Thanks for using this project.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+⌨️ with ❤️ by [dguglielmi-git](https://github.com/dguglielmi-git) 😊
