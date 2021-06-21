@@ -1,5 +1,6 @@
 
-# Basic ReactJS Login Template Project (Including internationalization pre-configured)
+# Basic ReactJS Login Template Project 
+# (Including internationalization pre-configured)
 
 Base project template to start a project with basic login screen
 
