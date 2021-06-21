@@ -19,7 +19,7 @@ Run the following commandas once the repo has been cloned:
 
 ## Deploy 📦
 
-It is just a template project, it needs to be modified and adapted for further usage.
+It is just a template project, it must be modified and adapted for personal purposes.
 
 
 ## Built with 🛠️
